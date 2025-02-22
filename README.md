@@ -64,16 +64,7 @@ The project requires the following Python libraries:
 - `seaborn`
 
 
-
-## License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
----
-
 Feel free to contribute to this project or use it as a starting point for your own work. If you have any questions or suggestions, feel free to open an issue or contact me.
-
----
 
 ### Author
 SAMOUA ALSAMOUA 
