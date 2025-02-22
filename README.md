@@ -1,4 +1,4 @@
-House Price Prediction
+**House Price Prediction**
 
 This project aims to predict house prices using a machine learning regression model. The dataset used is the **Ames Housing Dataset**, which contains various features related to residential homes in Ames, Iowa. The goal is to build a predictive model that estimates the sale price of houses based on features such as square footage, number of bedrooms, location, and more.
 
