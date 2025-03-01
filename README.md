@@ -24,15 +24,13 @@ The MATLAB script `OFDM_GFDM_FBMC_Comparison.m` performs the following tasks:
 ## Requirements
 To run this code, you need:
 - MATLAB (tested on MATLAB R2021a or later).
+- Communication Toolbox.
 - Signal Processing Toolbox (for functions like `pskmod`, `pskdemod`, `awgn`, etc.).
 
 ---
 
 ## Results
 The output of the script is a plot of BER vs SNR for the three modulation schemes. The plot helps visualize the performance differences between OFDM, GFDM, and FBMC under multipath fading conditions.
-
-Example Plot:
-![BER Comparison Plot](ber_comparison_plot.png)
 
 ---
 
