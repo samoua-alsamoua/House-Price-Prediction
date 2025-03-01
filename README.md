@@ -40,3 +40,8 @@ Example Plot:
 Contributions are welcome! If you find any issues or want to enhance the code, feel free to open an issue or submit a pull request.
 
 ---
+
+## Contact
+- **Author**: Samoua Alsamoua
+- **GitHub**: [samoua-alsamoua](https://github.com/samoua-alsamoua)
+- **Website**: [saalsamoua.github.io](https://samoua-alsamoua.github.io/saalsamoua/)
